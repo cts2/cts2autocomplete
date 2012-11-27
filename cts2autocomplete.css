@@ -1,0 +1,38 @@
+.ui-autocomplete-loading {
+	background: white url('loading_circle.gif') right center no-repeat;
+}
+
+div.headerInfo {
+	font-size: 1.0em;
+	border-radius:15px;
+	border:2px solid #a1a1a1;
+	padding:10px 10px; 
+	background:#dddddd;
+}
+
+div.ui-widget {
+	padding:10px 10px; 
+}
+
+table {
+	border: 5px solid #103f63;
+}
+th {
+	background-color: #454f64;
+	color: white;
+	font-size: .8em;
+	height: 20px;
+	width: 100%;
+	text-align:left;
+}
+
+td {
+	background-color: #879fb1;
+	color: white;
+	/*height: 50px;
+	vertical-align: bottom;*/
+	padding: 10px;
+	font-size: .7em;
+	height: 20px;
+} 
+
